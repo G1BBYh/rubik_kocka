@@ -40,6 +40,8 @@ p{
     background-color: lightgray;
 }
 
+
 li{
   font-weight:bold;
+  list-style: circle outside none;
 }
