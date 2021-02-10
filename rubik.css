@@ -23,7 +23,10 @@ p{
     margin: 10px;
 }
 
-
+.hatvany {
+    vertical-align: super;
+    font-size: 8pt;
+}
 
 .jobbra{
   text-align: right;
