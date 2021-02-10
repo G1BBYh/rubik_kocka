@@ -10,6 +10,7 @@ body{
 
 #cimkep{
   float:left;
+    display: block;
   height: 170px;
 }
 
